@@ -1,0 +1,22 @@
+.heading
+{
+    text-align: center;
+    font-size: 50px;
+    background-color: cyan;
+
+}
+.element_selector
+{
+    background-color: yellow;
+}
+#Idselector{
+    background-color: red;
+}
+p{
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+div +p{
+    background-color: purple;
+}
